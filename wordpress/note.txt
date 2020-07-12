@@ -1,0 +1,9 @@
+wordpress database details:
+db name: wordpress
+username: wpusername
+pw: A@a123456
+host: localhost
+
+site details:
+username: th.newera
+pw: 6Samurai13
